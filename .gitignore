@@ -1,3 +1,14 @@
 *.pyc
 *.pyo
 __pycache__/
+*.zip
+DAN-P6-donnees/
+build_pptx.py
+presentation.py
+verification.py
+clean/
+analyse/
+pyproject.toml
+uv.lock
+~$*.pptx
+*_files/
